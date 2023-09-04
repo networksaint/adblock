@@ -1,5 +1,4 @@
 # example adblock put above body
-<body>
 <!-- Kill AdBlock -->
     <link href='https://github.com/networksaint/adblock/blob/main/KillAdBlock.css' rel='stylesheet'/>
     <script>
@@ -8,4 +7,3 @@
     </script>
     <script src='https://github.com/networksaint/adblock/blob/main/KillAdBlock.js'/>
     <!-- Kill AdBlock -->
-    </body>
